@@ -1,0 +1,1 @@
+alter table workers_employees add primary key (id);
