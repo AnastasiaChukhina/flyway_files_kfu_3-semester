@@ -1,0 +1,1 @@
+create index c2_varchar_index on index_test(c2);
